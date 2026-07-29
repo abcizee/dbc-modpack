@@ -1,11 +1,3 @@
 [
-  "fabric-api-0.116.15+1.21.1.jar",
-  "azurelib-fabric-1.21.1-3.1.11.jar",
-  "chisels-and-bits-fabric-21.1.33.jar",
-  "ferritecore-7.0.3-fabric.jar",
-  "geckolib-fabric-1.21.1-4.9.2.jar",
-  "lithium-fabric-0.15.4+mc1.21.1.jar",
-  "player-animation-lib-fabric-2.0.1+1.21.1.jar",
-  "voicechat-fabric-1.21.1-2.6.21.jar",
-  "worldedit-mod-7.3.8.jar"
+  "fabric-api-0.116.15+1.21.1.jar"
 ]
